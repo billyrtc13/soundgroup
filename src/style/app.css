@@ -1,0 +1,16 @@
+/*
+    App
+*/
+
+body {
+    margin: 0;
+    font-size: 11pt;
+    font-display: block;
+    --color-app: blue;
+    --color-titulos: #004e81;
+}
+
+* {
+    font-family: 'M PLUS Rounded 1c';
+    box-sizing: border-box;
+}
