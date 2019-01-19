@@ -14,3 +14,14 @@ body {
     font-family: 'M PLUS Rounded 1c';
     box-sizing: border-box;
 }
+
+article {
+    margin: 100px;
+}
+
+button {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    display: flex;
+}

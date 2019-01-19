@@ -19,12 +19,6 @@ i {
     transition: color .3s ease;
 }
 
-i:hover,
-i:focus,
-i:active {
-    color: var(--color-app);
-}
-
 @font-face {
     font-family: 'Material Icons';
     font-display: fallback;
